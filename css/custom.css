@@ -1,0 +1,51 @@
+.navbar-fixed-top .navbar-brand {
+    padding-top: 8px;
+
+}
+
+.intro {
+	height: 100%;
+	width: 100%;
+}
+
+.img-circle {
+	margin: 0 auto 20px;
+}
+
+
+.content-section {
+	padding-top: 60px;
+	min-height: 100vh;
+}
+
+.about-section {
+	height: 100vh;
+}
+
+.about-section .row {
+	position:  relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.contact-section {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.footer-above {
+	padding-top: 40px;
+}
+
+.footer-below {
+	padding-top: 40px;
+	padding-bottom: 13px;
+}
+
+.col-md-4 {
+	padding-bottom: 50px;
+}
